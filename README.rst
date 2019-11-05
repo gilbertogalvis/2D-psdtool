@@ -26,7 +26,7 @@ The tool is basically composed of a function called ``polygon_shape_placement`` 
 Usage Example
 =============
 
-Here is an example that can be executed using a MatLab script (such as the test.m script placed in this repository) or also directly in the MatLab Command Window.
+Here is an example that can be executed using a MatLab script (such as the ``test.m`` script placed in this repository) or also directly in the MatLab Command Window.
 
 .. code:: shell
 	
