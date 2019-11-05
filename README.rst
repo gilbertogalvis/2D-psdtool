@@ -28,17 +28,21 @@ Usage Example
 
 Here is an example that can be executed using a MatLab script (such as the ``test.m`` script placed in this repository) or also directly in the MatLab Command Window.
 
-.. code:: shell
+.. code:: matlab
 	
+	% matlab window clean
 	clc; close all; clear all;
 
+	% parameters
 	polyshape = {'5', [30,15]};
 	imsize = [550, 550];
 	distparams = [55, 25];
 	N = 3;
 
+	% run the function
 	im = polygon_shape_placement(imsize, polyshape, distparams, N, 'on');
 
+	% show the generated image
 	imshow(im)
 
 Please feel free to change the parameters to the values you want
