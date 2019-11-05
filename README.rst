@@ -1,6 +1,6 @@
-##############################################
-psdt-2D - 2D Polygonal Shape Distribution Tool
-##############################################
+#################################################
+2D-psdtool - 2D Polygonal Shape Distribution Tool
+#################################################
 
 :Authors: John Kay, Gilberto Galvis
 :Email: john.kays2020@gmail.com, galvisgilberto@gmail.com
